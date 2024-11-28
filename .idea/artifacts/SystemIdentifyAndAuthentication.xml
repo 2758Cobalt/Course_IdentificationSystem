@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SystemIdentifyAndAuthentication">
+    <output-path>$PROJECT_DIR$/out/artifacts/SystemIdentifyAndAuthentication</output-path>
+    <root id="archive" name="SystemIdentifyAndAuthentication.jar">
+      <element id="module-output" name="Course_IdentificationSystem.main" />
+    </root>
+  </artifact>
+</component>
